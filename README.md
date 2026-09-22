@@ -37,5 +37,4 @@ Auditable structure-break and VWAP research code with explicit assumptions and n
 - Automotive experience with BMW and Rolls-Royce Motor Cars
 - Mechanical Engineering / Energy Technology background in Germany
 
-All public examples are independently written portfolio demonstrations. Employer/customer source code, proprietary CAD, internal data, credentials and confidential documentation are intentionally excluded.
-
+All public examples are independent portfolio demonstrations that I can run and explain. Employer/customer source code, proprietary CAD, internal data, credentials and confidential documentation are intentionally excluded.
